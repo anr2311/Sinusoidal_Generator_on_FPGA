@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Sun Oct 13 10:14:45 2024
+# Process ID: 17580
+# Current directory: C:/Users/argo7/Desktop/project_Sine_PWM/project_Sine_PWM.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/argo7/Desktop/project_Sine_PWM/project_Sine_PWM.sim/sim_1/behav/xsim.dir/tb_pwm_gen_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/argo7/Desktop/project_Sine_PWM/project_Sine_PWM.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/argo7/Desktop/project_Sine_PWM/project_Sine_PWM.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/argo7/Desktop/project_Sine_PWM/project_Sine_PWM.sim/sim_1/behav/xsim.dir/tb_pwm_gen_behav/webtalk/xsim_webtalk.tcl -notrace

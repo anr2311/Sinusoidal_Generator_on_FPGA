@@ -1,0 +1,46 @@
+Unable to capture context for thread 588 in process 26744, can not generate back trace
+Unable to capture context for thread 13464 in process 26744, can not generate back trace
+Unable to capture context for thread 10676 in process 26744, can not generate back trace
+Unable to capture context for thread 16284 in process 26744, can not generate back trace
+Unable to capture context for thread 19616 in process 26744, can not generate back trace
+Exception at PC 0x00007FF807F0BA99
+Unable to capture context for thread 20284 in process 26744, can not generate back trace
+Unable to capture context for thread 6632 in process 26744, can not generate back trace
+Unable to capture context for thread 13220 in process 26744, can not generate back trace
+Exception at PC 0x00007FF807F0BA99
+Unable to capture context for thread 20284 in process 26744, can not generate back trace
+Unable to capture context for thread 13220 in process 26744, can not generate back trace
+Exception at PC 0x00007FFF7F17BB93
+Printing stacktrace...
+
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+[0]  [0x00007FFF7F17BB93]
+[1]  [0x00007FFF7F17BB93]
+[2]  [0x00007FFF7F17B4A1]
+[3]  [0x00007FFF7F17B3EF]
+[4]  [0x00007FFF7F1619FE]
+[5]  [0x00007FFF7F160ED1]
+[6]  [0x00007FFF7F160D76]
+[7]  [0x00007FFF7F1079F6]
+[8]  [0x00007FFF7F0F7AFB]
+[9]  [0x00007FFF7F21E90A]
+[10]  [0x00007FFF7F239F87]
+[11]  [0x00007FFF7F23A05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FF808A27344]
+[13] (RtlUserThreadStart+0x21) [0x00007FF80A6226B1]
+Done
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
+Exception at PC 0x00007FF807F0BA99
