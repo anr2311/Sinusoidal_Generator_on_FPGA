@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Sun Oct 13 10:43:43 2024
+# Process ID: 24320
+# Current directory: C:/Users/argo7/Desktop/project_Sine_PWM/project_Sine_PWM.runs/synth_1
+# Command line: vivado.exe -log pwm_gen.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pwm_gen.tcl
+# Log file: C:/Users/argo7/Desktop/project_Sine_PWM/project_Sine_PWM.runs/synth_1/pwm_gen.vds
+# Journal file: C:/Users/argo7/Desktop/project_Sine_PWM/project_Sine_PWM.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source pwm_gen.tcl -notrace
