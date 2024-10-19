@@ -12,7 +12,7 @@ The above pre-computed sine wave is programmed as an LUT in the source files and
 
 ![image](https://github.com/user-attachments/assets/a6d1b03a-19b6-4fea-bd25-371516b1c68a)
 
-The PWM signal is generated on the JB7 pin of the FPGA:
+The PWM signal is generated on the JB7 pin of the Zedboard:
 
 ![image](https://github.com/user-attachments/assets/b79574f3-ee28-4a1c-aebd-9093a2259309)
 
