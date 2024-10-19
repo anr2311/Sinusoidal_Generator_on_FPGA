@@ -18,4 +18,4 @@ The PWM signal is generated on the JB7 pin of the Zedboard:
 
 The design also offers the use of an Integrated Logic Analyzer (ILA) that can tap the sinusoidal and PWM signals:
 
-![image](https://github.com/user-attachments/assets/50a1a9a3-fab2-48cf-8174-c3b5582f0ccf)
+![image](https://github.com/user-attachments/assets/e8ef4cbf-a80d-4bdf-8fe6-fb7327cb998f)
